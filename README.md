@@ -11,6 +11,6 @@
 
 # Screenshots
 ![](https://github.com/CS816SPE/jenkins-github-raks097/blob/master/build.png)
-![](https://github.com/CS816SPE/jenkins-github-raks097/blob/master/last github push.png)
-![](https://github.com/CS816SPE/jenkins-github-raks097/blob/master/polling log.png)
-![](https://github.com/CS816SPE/jenkins-github-raks097/blob/master/last github push.png)
+![](last github push.png)
+![](polling log.png)
+![](last github push.png)
